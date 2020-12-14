@@ -13,13 +13,17 @@ Lets take a look at a schematic representation of the network. <br>
 
 ## Dataset
 A subset of the COCO dataset was used containing data of 3 classess namely, Vehicles, People and Animals. Here are some example images from the dataset: <br>
-<img src = "/Images/dataset_1.png" height = 300> <img src = "/Images/dataset_2.png" height = 300>
+<p align = "center">
+<img src = "/Images/dataset_1.png" height = 300> <img src = "/Images/dataset_2.png" height = 300><br>
 <img src = "/Images/dataset_3.png" height = 300> <img src = "/Images/dataset_4.png" height = 300>
+</p>
 
 ## Results
 In the following images, the top 3 bounding boxes for each image are displayed after performing Non-Maximum Suppression. The different colors of the boxes correspond to different classes. <br>
 - Red - Vehicle
 - Blue - Person
 - Green - Animal <br>
-<img src = "/Images/result_1.png" height = 300> <img src = "/Images/result_2.png" height = 300>
+<p align = "center">
+<img src = "/Images/result_1.png" height = 300> <img src = "/Images/result_2.png" height = 300><br>
 <img src = "/Images/result_3.png" height = 300> <img src = "/Images/result_4.png" height = 300>
+</p>
