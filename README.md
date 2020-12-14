@@ -7,9 +7,9 @@ Faster RCNN is a real time object detection framework which can detect bounding 
 Faster R-CNN has two networks: region proposal network (RPN) for generating region proposals and a Box Header network using these proposals to detect bounding boxes and classify objects. A simplified version of the RPN can be found in my repository: [Region_Proposal_Network](https://github.com/karanpandya12/Region_Proposal_Network.git). For the Faster RCNN, a ResNet-50 network with a Feature Pyramid Network was trained separately on the dataset and used as a backbone.
 
 Lets take a look at a schematic representation of the network. <br>
-<center>
-  <img src = "/Images/faster_rcnn.jpeg">
-</center>
+<p align = "center">
+  <img src = "/Images/faster_rcnn.jpeg" height = 700>
+</cp>
 
 ## Dataset
 A subset of the COCO dataset was used containing data of 3 classess namely, Vehicles, People and Animals. Here are some example images from the dataset: <br>
