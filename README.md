@@ -9,7 +9,7 @@ Faster R-CNN has two networks: region proposal network backbone (RPN) for genera
 Lets take a look at a schematic representation of the network. <br>
 <p align = "center">
   <img src = "/Images/faster_rcnn.jpeg" height = 700>
-</cp>
+</p>
 
 ## Dataset
 A subset of the COCO dataset was used containing data of 3 classess namely, Vehicles, People and Animals. Here are some example images from the dataset: <br>
